@@ -9,7 +9,7 @@
 
 
 ## Overview
-   This is a simple responsive weather app written in HTML, CSS, and Javascript using the API to fetch the weather. 
+   This is a simple responsive weather app written in HTML, CSS, and Javascript using the API for fetching weather information. 
 
 ## Screenshot
 
